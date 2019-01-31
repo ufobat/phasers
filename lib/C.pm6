@@ -1,0 +1,3 @@
+use A;
+class C {
+}

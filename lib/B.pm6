@@ -1,0 +1,2 @@
+use A;
+class B {}
